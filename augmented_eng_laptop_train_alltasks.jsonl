@@ -1,4 +1,3 @@
-{"ID": "eng_laptop_quad_train_augmented_1", "Text": "The unit's pretty and stylish design features made it appealing to my high school daughter.", "Quadruplet": [{"Aspect": "unit", "Category": "LAPTOP#DESIGN_FEATURES", "Opinion": "pretty", "VA": "7.12#7.12"}]}
 {"ID": "eng_laptop_quad_train_augmented_1", "Text": "The unit's pretty and stylish design features made it attractive to my high school daughter.", "Quadruplet": [{"Aspect": "unit", "Category": "LAPTOP#DESIGN_FEATURES", "Opinion": "pretty", "VA": "7.12#7.12"}]}
 {"ID": "eng_laptop_quad_train_augmented_2", "Text": "The device is okay with an upped experience, earning 3 out of 5 stars.", "Quadruplet": [{"Aspect": "device", "Category": "LAPTOP#GENERAL", "Opinion": "okay", "VA": "5.50#5.25"}]}
 {"ID": "eng_laptop_quad_train_augmented_3", "Text": "It's unlikely, but I'll go with whatever unit.", "Quadruplet": [{"Aspect": "NULL", "Category": "LAPTOP#GENERAL", "Opinion": "unlikely", "VA": "5.00#5.12"}]}
